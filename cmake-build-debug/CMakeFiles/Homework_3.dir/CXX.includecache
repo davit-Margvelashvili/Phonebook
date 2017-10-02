@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/david/CLionProjects/IT_Step/C++/Homework_3/Contact.cpp
+Contact.h
+/home/david/CLionProjects/IT_Step/C++/Homework_3/Contact.h
+
+/home/david/CLionProjects/IT_Step/C++/Homework_3/Contact.h
+iostream
+-
+vector
+-
+
+/home/david/CLionProjects/IT_Step/C++/Homework_3/PhoneBook.cpp
+algorithm
+-
+PhoneBook.h
+/home/david/CLionProjects/IT_Step/C++/Homework_3/PhoneBook.h
+
+/home/david/CLionProjects/IT_Step/C++/Homework_3/PhoneBook.h
+iostream
+-
+vector
+-
+Contact.h
+/home/david/CLionProjects/IT_Step/C++/Homework_3/Contact.h
+
+/home/david/CLionProjects/IT_Step/C++/Homework_3/main.cpp
+iostream
+-
+vector
+-
+PhoneBook.h
+/home/david/CLionProjects/IT_Step/C++/Homework_3/PhoneBook.h
+Contact.h
+/home/david/CLionProjects/IT_Step/C++/Homework_3/Contact.h
+
